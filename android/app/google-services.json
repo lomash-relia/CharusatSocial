@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164885746019",
+    "project_id": "charusatsocial",
+    "storage_bucket": "charusatsocial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164885746019:android:5d023e611ec0caa6210356",
+        "android_client_info": {
+          "package_name": "com.charusatsocial.app.charusatsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164885746019-sql9kdcihta3mkmv5c6pu62f0aptsg75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4GDTNIcQC8_8UYBBDiCYI51SZ_xy4OiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164885746019-sql9kdcihta3mkmv5c6pu62f0aptsg75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
